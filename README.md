@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Creating a repository with the same name as your username will allow you to have a README displayed on your GitHub profile page, too!
+
 <!--
 **cooljeanius/cooljeanius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
