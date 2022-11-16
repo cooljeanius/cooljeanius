@@ -13,5 +13,3 @@ Creating a repository with the same name as your own username will allow you to 
 - Sponsor me! https://github.com/sponsors/cooljeanius
 - ...or donate to NH political candidates I support! https://secure.actblue.com/donate/ericgallagersnhdemsrecs
 - Also note that I dislike emojis and didn't add the ones in this README myself; I just declined to remove the ones GitHub had already left entered by default for me, because my laziness overpowers my disdain for emojis.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooljeanius&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
