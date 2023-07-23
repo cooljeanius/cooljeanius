@@ -14,3 +14,4 @@ Creating a repository with the same name as your own username will allow you to 
 - ...or donate to NH political candidates I support! https://secure.actblue.com/donate/ericgallagersnhdemsrecs
 - Also note that I dislike emojis and didn't add the ones in this README myself; I just declined to remove the ones GitHub had already left entered by default for me, because my laziness overpowers my disdain for emojis.
 - Website whose existence I appreciate: https://www.adsbexchange.com/
+- My LibrePlanet 2023 talk on the Free Software legislation I've been working on: https://www.youtube.com/watch?v=umlPMEGfZBM
