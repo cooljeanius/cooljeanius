@@ -10,7 +10,7 @@ Creating a repository with the same name as your own username will allow you to 
 - 📫 How to reach me: Mastodon: <a rel="me" href="https://social.treehouse.systems/@egallager">@egallager@treehouse.systems</a> ...or CounterSocial: <a rel="me" href="https://counter.social/@egallager">@egallager@counter.social</a> ...or Twitter: [@cooljeanius](https://twitter.com/cooljeanius) <sub><sup>(or, use the email address associated w/my commits – do `git log` in 1 of my repos to see it)</sup></sub>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: there's no "h" in my spelling of "Gallager" (despite most spellcheckers assuming otherwise).
-- Sponsor me! https://github.com/sponsors/cooljeanius
+- Sponsor me! https://github.com/sponsors/cooljeanius or https://opencollective.com/cooljeanius
 - ...or donate to NH political candidates I support! https://secure.actblue.com/donate/ericgallagersnhdemsrecs
 - Also note that I dislike emojis and didn't add the ones in this README myself; I just declined to remove the ones GitHub had already left entered by default for me, because my laziness overpowers my disdain for emojis.
 - Website whose existence I appreciate: https://www.adsbexchange.com/
