@@ -15,3 +15,4 @@ Creating a repository with the same name as your own username will allow you to 
 - Also note that I dislike emojis and didn't add the ones in this README myself; I just declined to remove the ones GitHub had already left entered by default for me, because my laziness overpowers my disdain for emojis.
 - Website whose existence I appreciate: https://www.adsbexchange.com/
 - My LibrePlanet 2023 talk on the Free Software legislation I've been working on: https://www.youtube.com/watch?v=umlPMEGfZBM
+- Mailing list I recently got set up: https://lists.sfconservancy.org/mailman/listinfo/legislation-discuss
