@@ -16,3 +16,4 @@ Creating a repository with the same name as your own username will allow you to 
 - Website whose existence I appreciate: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)
 - My LibrePlanet 2023 talk on the Free Software legislation I've been working on: [https://www.youtube.com/watch?v=umlPMEGfZBM](https://www.youtube.com/watch?v=umlPMEGfZBM)
 - Mailing list I recently got set up: [https://lists.sfconservancy.org/mailman/listinfo/legislation-discuss](https://lists.sfconservancy.org/mailman/listinfo/legislation-discuss)
+- My LinkTree, with more ways to connect with me: [https://linktr.ee/ericgallager](https://linktr.ee/ericgallager)
