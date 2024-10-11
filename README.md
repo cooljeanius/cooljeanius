@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-Creating a repository with the same name as your own username will allow you to have a README displayed on your own GitHub profile page, too!
+Creating a repo w/the same name as your own username will allow you to have a README displayed on your own GitHub profile page, too!
 
 - I’m currently working on [legislating](https://github.com/cooljeanius/legislation), [Battle for Wesnoth campaigns](https://github.com/topics/wesnoth-campaign), [porting FOSS Unix-y stuff to Macs](https://github.com/stars/cooljeanius/lists/macports-related), trying to make [PureDarwin](https://github.com/PureDarwin/PureDarwin) a thing, trying to fix [bugs](https://github.com/cooljeanius/gcc_bugs) in [GCC](https://github.com/cooljeanius/gcc/tree/me/autotools-tinkering) so it can help me be a better programmer, imagining an [alternative Constitution](https://github.com/cooljeanius/w_Constitution), and more.
 - I’m currently learning legislative process.
