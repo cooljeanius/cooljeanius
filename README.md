@@ -10,7 +10,7 @@ Creating a repo w/the same name as your own username will allow you to have a RE
 - How to reach me: Mastodon: <a rel="me" href="https://social.treehouse.systems/@egallager">@egallager@treehouse.systems</a> ...or BlueSky: <a rel="me" href="https://bsky.app/profile/egall.bsky.social">@egall.bsky.social</a>
 - Pronouns: he/him
 - Fun fact: there's no "h" in my spelling of "Gallager" (despite most spellcheckers assuming otherwise).
-- Sponsor me! [github.com/sponsors/cooljeanius](https://github.com/sponsors/cooljeanius) or [opencollective.com/cooljeanius](https://opencollective.com/cooljeanius) or [ko-fi.com/ericgallager](https://ko-fi.com/ericgallager) or [liberapay.com/egallager](https://liberapay.com/egallager/)
+- Sponsor me! [github sponsors: cooljeanius](https://github.com/sponsors/cooljeanius) or [opencollective: cooljeanius](https://opencollective.com/cooljeanius) or [ko-fi: ericgallager](https://ko-fi.com/ericgallager) or [liberapay: egallager](https://liberapay.com/egallager/)
 - Website whose existence I appreciate: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)
 - My LibrePlanet 2023 talk on the Free Software legislation I've been working on: [youtube.com/watch?v=umlPMEGfZBM](https://www.youtube.com/watch?v=umlPMEGfZBM)
 - Mailing list I got set up semi-recently, but keep forgetting about: [lists.sfconservancy.org/mailman/listinfo/legislation-discuss](https://lists.sfconservancy.org/mailman/listinfo/legislation-discuss)
